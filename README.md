@@ -21,4 +21,7 @@ Here I have created "single product scrapper.ipynb" with detail description of e
 
 For checking price in regular interval For windows user(As I am) use Task Scheduler and this file will work. Give some time to python for generating output and depending on your Internet conncetion it will generate output.
 
-You can add as many products link as you want in tracker.csv (Which is in tracker folder)
+You can add as many products link as you want in "TRACKER_PRODUCTS.csv" (Which is in tracker folder)
+make sure you check file formate before using it.
+
+If you have more efficient way to use it for make it please let me know. My email id is on my profile check. I would love to know your point.
